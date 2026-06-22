@@ -39,3 +39,14 @@ AWS Infrastructure
 - Horizontal Pod Autoscaling
 - AWS Networking
 - Infrastructure Management
+
+**Future Enhancements**
+
+- HTTPS via AWS ACM
+- AWS WAF protection
+- Private EKS Nodes
+- EBS encrypted storage
+- Secrets Manager integration
+- IAM Roles for Service Accounts (IRSA)
+- HIPAA-aligned architecture
+- Monitoring with Prometheus & Grafana
