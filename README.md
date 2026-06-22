@@ -12,6 +12,23 @@ This project demonstrates deployment of a containerized WordPress application on
 - LoadBalancer Services
 - Horizontal Pod Autoscaler (HPA)
 
+## Horizontal Pod Autoscaling
+
+Implemented a Kubernetes Horizontal Pod Autoscaler (HPA) to dynamically scale application pods based on CPU utilization.
+
+Configuration:
+
+- Minimum Replicas: 1
+- Maximum Replicas: 5
+- CPU Threshold: 50%
+
+Benefits:
+
+- Automatic scaling during traffic spikes
+- Improved application availability
+- Better resource utilization
+- Reduced operational overhead
+
 **Business Problem**
 
 Traditional monolithic applications are difficult to scale and manage.
