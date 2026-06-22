@@ -13,8 +13,8 @@ This project demonstrates deployment of a containerized WordPress application on
 - Horizontal Pod Autoscaler (HPA)
 
 **Business Problem**
-Traditional monolithic applications are difficult to scale and manage.
 
+Traditional monolithic applications are difficult to scale and manage.
 This project demonstrates how Kubernetes and Amazon EKS can be used to deploy, manage, and automatically scale containerized workloads.
 
 **Architecture**
