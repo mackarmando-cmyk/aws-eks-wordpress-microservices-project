@@ -50,3 +50,11 @@ AWS Infrastructure
 - IAM Roles for Service Accounts (IRSA)
 - HIPAA-aligned architecture
 - Monitoring with Prometheus & Grafana
+
+**Database Improvements**
+
+- Deploy MySQL as a Kubernetes StatefulSet
+- Replace self-managed database with Amazon RDS MySQL
+- Store credentials using Kubernetes Secrets
+- Enable automated database backups
+- Configure Multi-AZ failover for high availability
