@@ -22,7 +22,7 @@ Configuration:
 - Maximum Replicas: 5
 - CPU Threshold: 50%
 
-Benefits:
+**Benefits**:
 
 - Automatic scaling during traffic spikes
 - Improved application availability
@@ -75,3 +75,14 @@ AWS Infrastructure
 - Store credentials using Kubernetes Secrets
 - Enable automated database backups
 - Configure Multi-AZ failover for high availability
+
+### Kubernetes Validation
+
+- Successfully deployed WordPress to Amazon EKS
+- Provisioned 3 worker nodes
+- Exposed application through AWS LoadBalancer
+- Managed deployment using Helm charts
+- Configured Metrics Server
+- Implemented Horizontal Pod Autoscaler
+- Verified autoscaler monitoring cluster CPU metrics
+- Executed load testing validation
