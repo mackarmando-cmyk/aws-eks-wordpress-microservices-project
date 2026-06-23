@@ -126,6 +126,7 @@ Expected:
 my-microservice    Running
 siege              Running
 
+
 **22. Monitor HPA During Load Test**
 kubectl get hpa -w
 
@@ -151,6 +152,7 @@ kubectl get pods
 
 **27. Verify Nodes**
 kubectl get nodes
+
 
 **Cleanup Commands (Important)**
 
