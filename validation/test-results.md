@@ -1,4 +1,4 @@
-# Test Results
+Test Results
 
 Test 1: Application Deployment
 
