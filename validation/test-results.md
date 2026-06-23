@@ -1,6 +1,6 @@
 # Test Results
 
-## Test 1: Application Deployment
+Test 1: Application Deployment
 
 **Objective**:
 Verify Helm successfully deploys the application.
@@ -23,7 +23,7 @@ PASS
 Screenshot 14
 
 
-**Test 2: Load Balancer Accessibility**
+Test 2: Load Balancer Accessibility**
 
 Objective:
 Verify application is accessible through AWS Load Balancer.
